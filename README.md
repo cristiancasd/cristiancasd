@@ -1,16 +1,31 @@
-### Hi there 👋
+##  Hi, I'm Cristian Salazar 👨🏽‍💻
 
-<!--
-**cristiancasd/cristiancasd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**A Full-Stack Developer 🐍, lover of Backend with Node and Frontend with React.**
 
-Here are some ideas to get you started:
+#### Skills
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+- Node
+- Nest
+- React
+
+- Javascript
+- Typescript
+
+- MongoDb
+- PostgreSQL
+
+- Git, Github, Git Actions
+- Docker
+- Kubernets
+
+
+------------
+
+
+####  You can find me:
+- [LinkedIn](https://www.linkedin.com/in/cristiancasd/ "LinkedIn") 💼
+- [Instagram](https://www.instagram.com/cr4salazar/ "Instagram") 📸
+
+
+------------
