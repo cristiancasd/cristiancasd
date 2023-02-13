@@ -1,6 +1,6 @@
 ##  Hi, I'm Cristian Salazar 👨🏽‍💻
 
-**A Full-Stack Developer 🐍, lover of Backend with Node and Frontend with React.**
+**A Full-Stack Developer, lover of Backend with Node and Frontend with React.**
 
 #### Skills
 
