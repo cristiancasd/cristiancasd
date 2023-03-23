@@ -4,24 +4,14 @@
 
 #### Skills
 
-
-- Node
-- Nest
-- React
-
-- Javascript
-- Typescript
-
-- MongoDb
-- PostgreSQL
-
+- Node, Nest, React
+- Javascript / Typescript
+- PostgreSQL / MongoDb
 - Git, Github, Git Actions
-- Docker
-- Kubernets
-
+- Docker / Kubernets
+- CI/CD
 
 ------------
-
 
 ####  You can find me:
 - [LinkedIn](https://www.linkedin.com/in/cristiancasd/ "LinkedIn") 💼
